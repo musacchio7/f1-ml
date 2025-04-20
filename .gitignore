@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# FastF1 cache & downloaded data
+data/cache/
+data/raw/
+
